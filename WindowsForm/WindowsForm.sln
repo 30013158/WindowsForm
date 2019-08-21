@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForm", "WindowsForm\WindowsForm.csproj", "{E43E95C3-D7C9-4362-B670-13A7594556AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms-raj", "WindowsForms-raj\WindowsForms-raj.csproj", "{63F77A00-F68C-41DE-AE9C-0373713FE5D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43E95C3-D7C9-4362-B670-13A7594556AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43E95C3-D7C9-4362-B670-13A7594556AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43E95C3-D7C9-4362-B670-13A7594556AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43E95C3-D7C9-4362-B670-13A7594556AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F77A00-F68C-41DE-AE9C-0373713FE5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F77A00-F68C-41DE-AE9C-0373713FE5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F77A00-F68C-41DE-AE9C-0373713FE5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F77A00-F68C-41DE-AE9C-0373713FE5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C27C8BE-679A-4650-8A73-74FFC8FC5D95}
+	EndGlobalSection
+EndGlobal
